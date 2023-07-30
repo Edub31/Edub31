@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @NDub40
 - 👀 I’m interested in making this a career change
-- 🌱 I’m currently learning python, and c/c++, 
-- 💞️ I’m looking to collaborate on ...Almost anything
-- 📫 How to reach me ...here or email
-- I will also be attending  college in the fall for my CS degree.
+- 🌱 I’m currently learning python, c/c++, and ethical hacking 
+- 💞️ I’m looking to collaborate on almost anything
+- 📫 How to reach me...here or email
+- I am attending Google's CyberSecurity Certicate Program
 
 
 <!---
