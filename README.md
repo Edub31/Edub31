@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @NDub40 
 - 👀 I’m interested in making this a career change. Yes, I'm currently an Independent Contractor but I also enjoy working on other projects.
 - 🌱 I’m currently attending Google's Cyber Security Program
-- python, sql, and ethical hacking practices
-- 💞️ I’m looking to collaborate or consult on almost anything...
+- 💞️ i3wm, Python, SQL, and ethical hacking practices
 - 📫 How to reach me...here or email
-- I am attending Google's CyberSecurity Certicate Program through Cousera.
 
 
 <!---
