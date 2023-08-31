@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NDub40 
+- 👋 Hi, I’m Natasha Wilhelm 
 - 👀 I’m interested in making this a career change. Yes, I'm currently an Independent Contractor but I also enjoy working on other projects.
 - 🌱 I’m currently attending Google's Cyber Security Program
 - 💞️ i3wm, Python, SQL, and ethical hacking practices
