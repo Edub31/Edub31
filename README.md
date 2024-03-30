@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Natasha Wilhelm 
-- 👀 I’m interested in making this a career change. Yes, I'm currently an Independent Contractor but I also enjoy working on other projects.
+- 👀 Yes, I'm currently an Independent Contractor but I also enjoy working on other projects. 
 - 🌱 I attended Google's Cyber Security Program. Now I'm currently pursuing my computer science degree.
-- 💞️ i3wm, Python, SQL, Java, ethical hacking practices, rooting android operating systems, flashing custom ROMS, I use Fedora btw, Neovim is my editor of choice, windows virtualization. 
+- 💞️ i3wm is my favorite Window Manager, Python, SQL, ethical hacking practices, rooting android operating systems (where my love for Linux started), fastboot and adb, flashing custom ROMS, I use Fedora btw, WSL, Neovim is my editor of choice, windows virtualization. 
 - 📫 How to reach me...here or email
 
 
