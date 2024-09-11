@@ -2,7 +2,8 @@
 - 👀  
 - 🌱 I attended Google's Cyber Security Program. Now I'm currently pursuing my computer science degree.
 - 💞️ -i3WM (Favorite Window Manager)
--    -I use arch 💞️
+-    -I switch between Arch and Fedora Linux distros
+-    -And I also use a seperate Windows Machine
 -    -Python
 -    -Ethical hacking practices
 -    -Rooting Android operating systems (where my love for Linux started)
