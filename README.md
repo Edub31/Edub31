@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Natasha Wilhelm. 
 - 👀  
 - 🌱 I attended Google's Cyber Security Program. Now I'm currently pursuing my computer science degree.
-- 💞️ -i3WM and hyprland (Favorite Window Manager)
--    -I switch between Arch and Fedora Linux distros
+- 💞️ -i3WM,Say, and Hyprland (Favorite window managers)
+-    -I use Arch btw. 
 -    -And I also use a seperate Windows Machine
 -    -Python
 -    -Ethical hacking practices
