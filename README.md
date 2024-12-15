@@ -1,16 +1,13 @@
 - 👋 Hi, I’m Natasha Wilhelm. 
 - 👀  
-- 🌱 I attended Google's Cyber Security Program. Now I'm currently pursuing my computer science degree.
-- 💞️ -i3wm,Sway, and Hyprland (Favorite window managers)
--    -I use Arch btw. 
+- 🌱 -I attended Google's Cyber Security Program. Now I'm currently pursuing my computer science degree.
+- 💞️ -i3wm,Sway, and Hyprland
+- 💞️ -I use Arch btw.
+- 💞️ -Neovim (my editor of choice)
 -    -And I also use a seperate Windows Machine
--    -Python
 -    -Ethical hacking practices
--    -Rooting Android operating systems (where my love for Linux started)
--    -Fastboot and ADB
--    -Flashing custom ROMS on Android via CLI
--    -Neovim (my editor of choice)
--    -Windows virtualization 
+-    -Rooting Android operating systems, Flashing custom ROMS on Android via CLI (Fastboot and ADB) (where my love for Linux started)
+-    
 - 📫 How to reach me...here or email
 
 
